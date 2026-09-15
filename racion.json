@@ -1,7 +1,7 @@
 {
- "versionCode": 9,
- "versionName": "0.9",
- "url": "https://raw.githubusercontent.com/Hellppyy/racion-releases/main/racion-0.9.apk",
- "notes": "Общая база на своём сервере, обновление из приложения",
- "sha256": "a19a850fa3f310fcfff9fce5c27c7ec00708d6b42c8968fe6ff111813754b259"
+ "versionCode": 10,
+ "versionName": "0.10",
+ "url": "https://raw.githubusercontent.com/Hellppyy/racion-releases/main/racion-0.10.apk",
+ "notes": "Понятные ошибки связи: приложение подсказывает про VPN",
+ "sha256": "6754b795848a283da6b34bc4937ec9b615425c5baaaa4a56e2b6d29a10df549e"
 }
