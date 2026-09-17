@@ -1,7 +1,7 @@
 {
- "versionCode": 11,
- "versionName": "0.11",
- "url": "https://raw.githubusercontent.com/Hellppyy/racion-releases/main/racion-0.11.apk",
- "notes": "Микро: чем и как часто закрывать каждый витамин",
- "sha256": "e8181ef70b2c707ad3a0379139c463863902f322503abe1908089d1c4635398a"
+ "versionCode": 12,
+ "versionName": "0.12",
+ "url": "https://raw.githubusercontent.com/Hellppyy/racion-releases/main/racion-0.12.apk",
+ "notes": "Микро: обычная порция и сколько раз в неделю её есть",
+ "sha256": "93b71c327789209e93b13a57b0a75520f1ac758009180790a3440c4a715ee4f2"
 }
